@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "macos-clang-arm64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk"
+      ],
+      "compilerPath": "/Users/yangkailiang/miniforge3/bin/clang",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "macos-clang-arm64",
+      "compilerArgs": [
+        ""
+      ]
+    }
+  ],
+  "version": 4
+}
